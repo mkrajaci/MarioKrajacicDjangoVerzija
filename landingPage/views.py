@@ -5,4 +5,8 @@ from django.http import HttpResponse
 
 
 def home(request):
-    return HttpResponse('<h1>LandingPage Home</h1>')
+    return HttpResponse('<h1>landingPage Home</h1>')
+
+
+def home_about(request):
+    return HttpResponse('<h1>about Home</h1>')
