@@ -17,7 +17,7 @@ from django.contrib import admin
 from django.urls import path, include
 
 urlpatterns = [
-    path('admin/', admin.site.urls),    #TODO: Prije produkcije promijeniti ovaj path u recimo moj_admin ili nesto drugo
+    path('admin/', admin.site.urls),    #TODO: Prije produkcije promijeniti ovaj path u recimo moj_admin ili nesto drugo zbog sigurnosti
     path('', include('landingPage.urls')),
     path('blog/', include('blog.urls')),
 ]

@@ -1,6 +1,11 @@
 Tutorial:
-https://youtu.be/qDwdMDQ8oX4?t=170
+https://youtu.be/qDwdMDQ8oX4?t=2010
 
+Snippets:
+https://www.youtube.com/redirect?v=qDwdMDQ8oX4&redir_token=wHaY6XCEsDd8-DA1_IpcUuNt4f18MTU1Nzg5MzYyNEAxNTU3ODA3MjI0&q=https%3A%2F%2Fgithub.com%2FCoreyMSchafer%2Fcode_snippets%2Ftree%2Fmaster%2FDjango_Blog%2Fsnippets&event=video_description
+
+Bootstrap Starter Template:
+https://getbootstrap.com/docs/4.3/getting-started/introduction/
 
 Linode 20 $ kupon
 https://promo.linode.com/hawkes/
