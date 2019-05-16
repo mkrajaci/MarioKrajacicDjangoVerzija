@@ -1,5 +1,5 @@
 Tutorial:
-https://youtu.be/1PkNiYlkkjo?t=54
+https://youtu.be/aHC3uTkT9r8?t=972
 
 Snippets:
 https://www.youtube.com/redirect?v=qDwdMDQ8oX4&redir_token=wHaY6XCEsDd8-DA1_IpcUuNt4f18MTU1Nzg5MzYyNEAxNTU3ODA3MjI0&q=https%3A%2F%2Fgithub.com%2FCoreyMSchafer%2Fcode_snippets%2Ftree%2Fmaster%2FDjango_Blog%2Fsnippets&event=video_description
@@ -9,3 +9,10 @@ https://getbootstrap.com/docs/4.3/getting-started/introduction/
 
 Linode 20 $ kupon
 https://promo.linode.com/hawkes/
+
+
+Dodavanje super usera: https://youtu.be/1PkNiYlkkjo?t=54
+superuser for lite: admin
+user for lite: test
+
+Dodavanje tabela: https://youtu.be/aHC3uTkT9r8
