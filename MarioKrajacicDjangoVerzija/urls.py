@@ -15,9 +15,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from users import views as user_views
 
 urlpatterns = [
     path('admin/', admin.site.urls),    #TODO: Prije produkcije promijeniti ovaj path u recimo moj_admin ili nesto drugo zbog sigurnosti
     path('', include('landingPage.urls')),
     path('blog/', include('blog.urls')),
+    path('register/', user_views.register, name='register'),
 ]
