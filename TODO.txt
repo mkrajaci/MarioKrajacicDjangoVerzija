@@ -1,5 +1,5 @@
 Tutorial:
-https://youtu.be/3aVqWaLjqS4?t=866
+https://youtu.be/FdVuKt_iuSI?t=347
 
 Snippets:
 https://www.youtube.com/redirect?v=qDwdMDQ8oX4&redir_token=wHaY6XCEsDd8-DA1_IpcUuNt4f18MTU1Nzg5MzYyNEAxNTU3ODA3MjI0&q=https%3A%2F%2Fgithub.com%2FCoreyMSchafer%2Fcode_snippets%2Ftree%2Fmaster%2FDjango_Blog%2Fsnippets&event=video_description
